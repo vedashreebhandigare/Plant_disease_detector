@@ -109,5 +109,8 @@ Database: JSON-based storage (for chatbot data)
 
 We welcome contributions! Feel free to fork the repo, create pull requests, and submit bug reports.
 
+Preview:
+https://drive.google.com/file/d/1ytkSHuQqhz-ZtKhLPLXsvfYZnhqzQhGU/view?usp=sharing
+
 🚀 Let's revolutionize agriculture with AI! 🌿
 
